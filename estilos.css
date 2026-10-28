@@ -89,4 +89,4 @@ button {
 .mensaje { min-height: 24px; font-weight: bold; }
 .mensaje.error { color: var(--color-error); }
 .mensaje.exito { color: var(--color-exito); }
-.mensaje.info { color: var(--color-primario); }
+.mensaje.info { color: var(--color-primario); } 
